@@ -8,21 +8,26 @@ These are the topics discussed in this github repo : -
 	4. Java interview codes (based on my experience) : Exception handling ,Multithreading, Singleton class ,Design a system in java 
 	5. Some good interview questions i found on gfg 
 
+## Best resource to read if you have more than an hour to completely revise java ##
+https://github.com/disha2sinha/Object-Oriented-Programming-in-Java?tab=readme-ov-file
+
 1. java highly portable as its bytecodes can be run on any machine by an interpreter called **Java Virtual Machine(VM)**
 2.  
 	1. ****JVM****: JVM also known as Java Virtual Machine is a part of JRE. JVM is a type of interpreter responsible for converting bytecode into machine-readable code.
 	2. ****JRE****: JRE stands for Java Runtime Environment, it is an installation package that provides an environment to run the Java program or application on any machine.
 	3. ****JDK****: JDK stands for Java Development Kit which provides the environment to develop and execute Java programs.
+
 3. ****JVM is platform dependent****, the bytecode can be created on any System and can be executed in any other system despite hardware or software being used which makes Java platform independent.
+
 4. JIT stands for (Just-in-Time) compiler is a part of JRE(Java Runtime Environment), it is used for better performance of the Java applications during run-time
 5. src code ->javac->bytecode->jit(part of jvm,)->compiled bytecode into native machine code at run time.)
-6. ### Memory storages available with JVM
+7. ### Memory storages available with JVM
 	1. Class(Method) Area
 	2. Heap: Objects are created or objects are stored
 	3. Stack: stores data and partial results
 	4. Program Counter Register: stores the address of the Java virtual machine instruction
 	5. Native Method Stack: stores all the native methods used in the application.
-7. A Java String Pool is a place in heap memory where all the strings defined in the program are stored.
+8. A Java String Pool is a place in heap memory where all the strings defined in the program are stored.
  Basic question checkpoints : -
 	q.What will happen if we don't declare the main as static? 
 		a.: We can declare the main method without using static and without getting any errors. But, the main method will not be treated as the entry point to the application or the program.
@@ -33,9 +38,9 @@ These are the topics discussed in this github repo : -
 		a.**String args[]****: It stores Java command-line arguments and is an array of type java.lang.String class.
 	q. ###  What is the default value of float and double and byte datatype in Java
 		a. default vals : 0.0f, 0.0d and  0 respectively.
-8.  **static****: static is a keyword used so that we can use the element without initiating the class so to avoid the unnecessary allocation of the memory.
-9. ***main****: main represents that the function declared is the main function. It helps JVM to identify that the declared function is the main function.
-10. 
+9.  **static****: static is a keyword used so that we can use the element without initiating the class so to avoid the unnecessary allocation of the memory.
+10. ***main****: main represents that the function declared is the main function. It helps JVM to identify that the declared function is the main function.
+11. 
 some basic codes : - 
 ```java class GFG {
     public static int ctr = 0;
