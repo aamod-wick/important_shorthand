@@ -6,9 +6,14 @@ This guide is based on OA questions from gfg and is meant as a quick revision . 
 Highly recommended try to speed solve these to get the hang of python  : - 
 https://www.interviewbit.com/python-mcq/ (solve all  after reading this article)
 (no need to solve all just solve as many as possible )
+
 https://www.geeksforgeeks.org/quizzes/python-variables-quiz/   15 question is good
-https://www.geeksforgeeks.org/quizzes/python-dictionary-quiz/ 
+
+https://www.geeksforgeeks.org/quizzes/python-dictionary-quiz/
+
 https://www.geeksforgeeks.org/quizzes/python-list-quiz/
+https://www.indiabix.com/python-programming/tricky-questions/ (do easy and medium from here)
+
 
 # MCQS
 1. 
