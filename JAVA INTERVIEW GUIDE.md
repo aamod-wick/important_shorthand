@@ -8,7 +8,7 @@ These are the topics discussed in this github repo : -
 	4. Java interview codes (based on my experience) : Exception handling ,Multithreading, Singleton class ,Design a system in java 
 	5. Some good interview questions i found on gfg 
 
-## Best resource to read if you have more than an hour to completely revise java ##
+## Best resource to read if you have more than an hour to completely revise java is the link given below ##
 https://github.com/disha2sinha/Object-Oriented-Programming-in-Java?tab=readme-ov-file
 
 1. java highly portable as its bytecodes can be run on any machine by an interpreter called **Java Virtual Machine(VM)**
